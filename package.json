@@ -1,0 +1,19 @@
+{
+	"author": {
+		"name": "Roman Ožana",
+		"email": "roman@ozana.cz",
+		"url": "https://ozana.cz"
+	},
+	"private": true,
+	"scripts": {
+		"screenshots": "./screenshots.js"
+	},
+	"type": "module",
+	"engines": {
+		"node": ">=12"
+	},
+	"dependencies": {
+		"fs-extra": "^10.0.0",
+		"puppeteer": "^10.1.0"
+	}
+}
